@@ -1,0 +1,28 @@
+##############################################
+# Coloring Map For （BM62S2201-1）          
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM62S2201_1	KEYWORD1               
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+readTemperature	KEYWORD2
+readPressure	KEYWORD2
+getDevID	KEYWORD2
+getI2CAddress	KEYWORD2
+getDeviceStatus	KEYWORD2
+enterSleepMode	KEYWORD2
+reset	KEYWORD2
+restoreDefault	KEYWORD2
+setI2CAddress	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+BM62S2201_1_ADDR	LITERAL1 
+READ_OK	LITERAL1         
+READ_ERROR	LITERAL1           
+NO_ACK	LITERAL1  
+TIMEOUT_ERROR	LITERAL1
