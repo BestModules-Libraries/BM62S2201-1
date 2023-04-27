@@ -17,7 +17,7 @@ The BEST MODULES BM62S2201-1 is a digital air pressure sensor, which uses the UA
 
 </div> 
 
-This library can be installed via the Arduino Library manager. Search for ** BM62S2201-1**. 
+This library can be installed via the Arduino Library manager. Search for **BM62S2201-1**. 
 
 Repository Contents
 -------------------
